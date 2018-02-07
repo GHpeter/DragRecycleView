@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="34dp"
+    android:background="@drawable/tv_bg"
+    android:gravity="center"
+    android:text="头条"
+    android:textSize="14sp" />
